@@ -1,4 +1,4 @@
-영상: https://www.youtube.com/playlist?list=PLD8rdlfZeJk7ijUM8ckwLLNyDKRD2aQa2
+영상: https://www.youtube.com/playlist?list=PLW8wOTYOluvFr4favjXEVXMghqQNYOOqI
 
 ### [명제와 연산자](/이산-수학/이산수학-기초/명제와-연산자.md)
 
